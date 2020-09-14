@@ -1,9 +1,13 @@
 # seg2105f20-lab1-seg2105_lab1_group32
-seg2105f20-lab1-seg2105_lab1_group32 created by GitHub Classroom
+This is a group project for lab 1 of Seg 2105. 
 
-THIS IS A GROUP PROJECT FOR LAB_1 OF SEG_2105. THESE ARE THE GROUP MEMBERS.
-Amelie Comtois; Sebastian Larivee; Kenneth Chen; Pavly Saleh
-THIS PROJECT CONTAINS FIVE FILES.
-THERE ARE FOUR FILES CALLED [first_name].txt WHERE first_name IS THE NAME OF ONE OF THE GROUP MEMBERS.
-THERE IS ONE FILE CALLED team.txt WITH ALL OF THE NAMES OF THE GROUP MEMBERS.
-THIS WAS AN ASSIGNMNENT TO TEST OUR UNDERSTANDING OF GIT CONFLICTS AND COMMITS.
+The group members are: <br />
+Amelie Comtois <br />
+Sebastian Larivee <br />
+Kenneth Chen <br />
+Pavly Saleh
+
+This project contains the five files required: <br />
+There are four files called "[first_name].txt" where first_name is the name of one of the group members. <br />
+There is also one file called "team.txt" with all of the names of the group members. <br />
+This was an assignment to test our understanding of git conflicts and commits.
