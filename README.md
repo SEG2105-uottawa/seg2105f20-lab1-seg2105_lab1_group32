@@ -3,7 +3,7 @@ This is a group project for lab 1 of Seg 2105.
 
 The group members are: <br />
 Amelie Comtois <br />
-Sebastian Larivee <br />
+Sebastian Larrivee <br />
 Kenneth Chen <br />
 Pavly Saleh
 
